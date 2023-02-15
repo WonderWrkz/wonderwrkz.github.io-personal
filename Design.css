@@ -1,0 +1,29 @@
+p {
+    color:red;
+}
+
+body {
+    background-image:url('https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/overwatch-2-ramattra-design-origins.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: red;
+    font-family:'Times New Roman', Times, serif;
+}
+
+li {
+    color:rgb(175, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    display:inline-block;
+    padding: 30px;
+}
+
+.tab {
+    background-color: rgb(57, 57, 57);
+    margin: 0 auto;
+    text-align:center;
+    width:100%;
+}
